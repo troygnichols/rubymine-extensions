@@ -136,7 +136,7 @@
       <option name="OTHER" value="false" />
     </context>
   </template>
-  <template name="erbe" value="&lt;%= $END$ %&gt;" description="&lt;%=  %&gt;" toReformat="false" toShortenFQNames="true">
+  <template name="ee" value="&lt;%= $END$ %&gt;" description="&lt;%=  %&gt;" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML" value="false" />
       <option name="XML" value="false" />
